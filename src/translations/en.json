@@ -1,0 +1,7 @@
+{
+    "required": "required field",
+    "signup": "Sign In",
+    "wrongEmail": "please enter valid email",
+    "max": "between 6 and 8 characters",
+    "newMin": "between 6 and 8 characters"
+}
